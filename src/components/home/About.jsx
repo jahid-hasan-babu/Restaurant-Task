@@ -6,6 +6,7 @@ import medal from "../../assets/image/medal.png";
 import bag from "../../assets/image/bag.png";
 import CustomButton from "./../ui/CustomButton";
 import { FaPhoneVolume } from "react-icons/fa6";
+import bellPaper from "../../assets/image/bellPaper.png";
 
 const About = () => {
   const [activeTab, setActiveTab] = useState("about");
@@ -170,6 +171,11 @@ const About = () => {
           </div>
         </div>
       </MaxWidthWrapper>
+      <img
+        src={bellPaper}
+        alt="bellPaper"
+        className="lg:block hidden float-right mt-[-400px]"
+      />
     </div>
   );
 };
