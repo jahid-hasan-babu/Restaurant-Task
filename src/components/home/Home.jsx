@@ -4,6 +4,7 @@ import Footer from "../layout/Footer.jsx";
 import Banner from "./Banner.jsx";
 import About from "./About.jsx";
 import ItemsTestimonial from "./ItemsTestimonial.jsx";
+import BookForm from "./BookForm.jsx";
 
 const Home = () => {
   return (
@@ -12,6 +13,7 @@ const Home = () => {
       <Banner />
       <About />
       <ItemsTestimonial />
+      <BookForm />
       <Footer />
     </div>
   );
