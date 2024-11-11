@@ -45,7 +45,7 @@ const Feedback = () => {
     dots: false,
     infinite: true,
     speed: 1000,
-    autoplay: false,
+    autoplay: true,
     autoplaySpeed: 2000,
     slidesToShow: 1,
     slidesToScroll: 1,
