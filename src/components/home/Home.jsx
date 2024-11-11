@@ -5,6 +5,7 @@ import Banner from "./Banner.jsx";
 import About from "./About.jsx";
 import ItemsTestimonial from "./ItemsTestimonial.jsx";
 import BookForm from "./BookForm.jsx";
+import Feedback from "./Feedback.jsx";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <About />
       <ItemsTestimonial />
       <BookForm />
+      <Feedback />
       <Footer />
     </div>
   );
