@@ -1,6 +1,8 @@
 # React + Vite
+# Live Link->https://restaurant-task-jahid.vercel.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+For design i use Tailwind CSS.
 
 Currently, two official plugins are available:
 
