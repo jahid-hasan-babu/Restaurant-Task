@@ -10,7 +10,7 @@ import alovera from "../../assets/image/alovera.png";
 import vedio from "../../assets/image/vedio.png";
 import comma from "../../assets/image/Coma.png";
 import customer from "../../assets/image/customer.png";
-import vectorStar from "../../assets/image/VectorStar.png";
+import vectorStar from "../../assets/image/vectorStar.png";
 
 function SampleNextArrow(props) {
   const { onClick } = props;
